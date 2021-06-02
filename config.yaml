@@ -3,8 +3,9 @@ subject: 'hep-ph*'
 
 # 検索キーワード
 keywords:
-        axion: 3
-        coupling: 4
+        axion: 5
+        SGE solution: 1
+        domain wall: 3
 
 # 通知の閾値
 score_threshold: 0
