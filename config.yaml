@@ -1,11 +1,12 @@
 # arxivの学問領域の指定
-subject: 'hep-ph'
+subject: 'hep-ph OR hep-th'
 
 # 検索キーワード
 keywords:
         axion: 5
         SGE solution: 1
         domain wall: 3
+        sine-gordon: 4
 
 # 通知の閾値
 score_threshold: 0
