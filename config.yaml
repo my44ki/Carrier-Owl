@@ -7,6 +7,7 @@ keywords:
         SGE solution: 1
         domain wall: 3
         sine-gordon: 4
+        kink: 2
 
 # 通知の閾値
 score_threshold: 0
